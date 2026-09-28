@@ -1,0 +1,15 @@
+{
+  "name": "executable-stories-demo",
+  "private": true,
+  "description": "Starter Vitest project for executable-stories: write tests with plain-English steps and get an HTML report that documents what your code does.",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "vitest --watch & live-server reports --wait=300"
+  },
+  "devDependencies": {
+    "executable-stories-vitest": "8.9.8",
+    "live-server": "1.2.2",
+    "vitest": "5.0.2"
+  }
+}

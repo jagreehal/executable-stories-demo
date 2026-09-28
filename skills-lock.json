@@ -1,0 +1,77 @@
+{
+  "version": 1,
+  "skills": {
+    "bug-to-scenario": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/bug-to-scenario/SKILL.md",
+      "computedHash": "6afc03985f049e7bab789f9448f771825cc9342cc317838b3fe2ff6ca530a5a6"
+    },
+    "playwright-converting-tests": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-converting-tests/SKILL.md",
+      "computedHash": "77fdf96eaa386fc22492a430ec35e4d3fd7e1c68d7284925f607f9bfb3fb36d9"
+    },
+    "playwright-reporter-setup": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-reporter-setup/SKILL.md",
+      "computedHash": "a94463485842dcf642b4cbd9ff47d198c2dc194e0f6485ecfe3cf8ca80d01112"
+    },
+    "playwright-story-api": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-story-api/SKILL.md",
+      "computedHash": "035f19a6c49ab378ddef40deaaaff305d9b69d52162524349cb68cf67ac15648"
+    },
+    "scenarios-to-tickets": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/scenarios-to-tickets/SKILL.md",
+      "computedHash": "e1ddc37e600edeb082d0f4944e35c2ca389987e8b8cca505eaf45d1b5c0f12ee"
+    },
+    "spec-example-mapping": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/spec-example-mapping/SKILL.md",
+      "computedHash": "5d2bb622f420a7ac291ed1d58f6ddb5aa2074f396fbfd886e264aaa57082af17"
+    },
+    "spec-grilling": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/spec-grilling/SKILL.md",
+      "computedHash": "391ded1ec7f52ddec8fc5daa11a88f1fb9ebe0a624b7c992bb8036bdf81b1e7e"
+    },
+    "stories-guide": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/stories-guide/SKILL.md",
+      "computedHash": "4408c0fd62346084c82c7e231fc7312dfe500128daac8699bdbcfbeddb41bc2e"
+    },
+    "story-tdd": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/story-tdd/SKILL.md",
+      "computedHash": "c137e10e3ef781fc3c2c17bababfb197b37a94cf1208ef15eaacd70370b34973"
+    },
+    "vitest-converting-tests": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/vitest-converting-tests/SKILL.md",
+      "computedHash": "f36534776a1a6929340fa581b773d4ea9e539843ccc69c851a34aa5db17197fa"
+    },
+    "vitest-reporter-setup": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/vitest-reporter-setup/SKILL.md",
+      "computedHash": "45e8af31bfe16e2a23535b6c8a82ee39677da40e8d43133255bacc2387059b3b"
+    },
+    "vitest-story-api": {
+      "source": "jagreehal/executable-stories",
+      "sourceType": "github",
+      "skillPath": "skills/vitest-story-api/SKILL.md",
+      "computedHash": "a2b3aebf16e869d115e1324e31ab9e1b8a105c954b792df0bfcb8e044538cb75"
+    }
+  }
+}
